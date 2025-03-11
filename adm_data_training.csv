@@ -1,0 +1,401 @@
+Serial No.,Name,GRE Score,TOEFL Score,University Rating,SOP,LOR ,CGPA,Research,Chance of Admit ,State
+1,Riya Fernandez,340,120,4,4.5,4,9.92,1,0.816952175,Arizona
+2,Conrad Reese,340,120,5,4.5,4.5,9.91,1,0.807968022,Arizona
+3,Kylie Carey,334,120,5,4,5,9.87,1,0.757471954,Arizona
+4,Maren Curtis,335,117,5,5,5,9.82,1,0.787238637,Arizona
+5,Jaylon Clark,336,119,5,4,3.5,9.8,1,0.784443343,Arizona
+6,Callum Guerra,331,112,5,4,5,9.8,1,0.756388739,Arizona
+7,Nayeli Mcclure,339,116,4,4,3.5,9.8,1,0.847768279,Arizona
+8,Laney Jones,333,119,5,5,4.5,9.78,1,0.815990066,Arizona
+9,Darren Cobb,336,112,5,5,5,9.76,1,0.821888861,Arizona
+10,Lawrence Schneider,339,114,5,4,4.5,9.76,1,0.803572353,Arizona
+11,Remington Key,340,113,4,5,5,9.74,1,0.823638921,Arizona
+12,Nash Rivera,334,119,5,5,4.5,9.7,1,0.778509152,Arizona
+13,Jolie Sanders,339,119,5,4.5,4,9.7,0,0.846704062,Arizona
+14,Dean Cruz,335,115,4,4.5,4.5,9.68,1,0.822210769,Arizona
+15,Kylie Wall,338,120,4,5,5,9.66,1,0.778226263,Arizona
+16,Perla Stephenson,340,112,4,5,4.5,9.66,1,0.799596646,Arizona
+17,Theodore Braun,333,117,4,5,4,9.66,1,0.804470219,Arizona
+18,Iyana Moon,337,118,4,4.5,4.5,9.65,1,0.838336497,Arizona
+19,Anabel Wright,332,118,5,5,5,9.64,1,0.782627712,Arizona
+20,Darryl Morrison,336,119,4,4.5,4,9.62,1,0.780678414,Arizona
+21,Kelsey Phelps,340,120,5,4.5,4.5,9.6,1,0.78587407,Arizona
+22,Jadon Winters,340,114,5,4,4,9.6,1,0.771451489,Arizona
+23,Brynlee Miles,335,117,5,5,5,9.56,1,0.819912576,Arizona
+24,Harper Page,334,116,4,4,3.5,9.54,1,0.824376463,Arizona
+25,Kenna Blake,336,118,5,4.5,5,9.53,1,0.840410233,Arizona
+26,Emmy House,328,116,5,5,5,9.5,1,0.804069237,Arizona
+27,Jarrett Lucas,340,120,4,5,5,9.5,1,0.836879026,Arizona
+28,Semaj Mccoy,334,119,5,4.5,4.5,9.48,1,0.846095526,Arizona
+29,Laura Dawson,332,118,5,5,5,9.47,1,0.809887325,Arizona
+30,Danielle Gould,338,117,4,3.5,4.5,9.46,1,0.791699962,Arizona
+31,Elle Sheppard,321,111,5,5,5,9.45,1,0.840087859,Arizona
+32,Nevaeh Moyer,340,115,5,4.5,4.5,9.45,1,0.812375485,Arizona
+33,Jadyn Mcgee,329,113,5,5,4.5,9.45,1,0.819936369,Arizona
+34,Alayna Mejia,330,116,4,5,4.5,9.45,1,0.820937773,Arizona
+35,Perla Bradley,331,115,5,4,3.5,9.44,1,0.795818417,Arizona
+36,Barrett Gallegos,335,118,5,4.5,3.5,9.44,1,0.805033997,Arizona
+37,Katherine Murray,334,114,4,4,4,9.43,1,0.825182064,Arizona
+38,Alani Miles,331,117,4,4.5,5,9.42,1,0.801807946,Arizona
+39,Leonardo Leblanc,338,118,4,3,4.5,9.4,1,0.757955634,Arizona
+40,Ryan Callahan,326,113,5,4.5,4,9.4,1,0.824567245,Arizona
+41,Jaylynn Watts,331,116,5,5,5,9.38,1,0.767952678,Arizona
+42,Cadence Lawson,322,115,5,4,4.5,9.36,1,0.756219298,Arizona
+43,Abril Mann,332,118,2,4.5,3.5,9.36,1,0.816232524,Arizona
+44,Selina Ortiz,331,115,5,4.5,3.5,9.36,1,0.784532111,Arizona
+45,Yadira Myers,330,116,5,5,4.5,9.36,1,0.837456654,Arizona
+46,Frederick Powers,333,118,5,5,5,9.35,1,0.762898207,Arizona
+47,Coby Hendrix,330,115,5,4.5,3,9.34,1,0.776129888,Arizona
+48,Dayton Thompson,331,119,4,5,4.5,9.34,1,0.843710241,Arizona
+49,Arielle Lozano,323,113,3,4,3,9.32,1,0.763125048,Arizona
+50,Irvin Vaughan,330,113,5,5,4,9.31,1,0.779427284,Arizona
+51,Roland Leblanc,329,114,5,4,5,9.3,1,0.768921892,Arizona
+52,Kaylen Odonnell,333,113,5,4,4,9.28,1,0.823505095,Arizona
+53,Keira Burgess,332,116,5,5,5,9.28,1,0.789373764,Arizona
+54,Ashlynn Flowers,322,112,4,4.5,4.5,9.26,1,0.821378657,Arizona
+55,Destinee Macias,331,116,5,4,4,9.26,1,0.776474696,Arizona
+56,Judah Lozano,332,119,4,5,4.5,9.24,1,0.776393923,Arizona
+57,Tristan Hendrix,330,114,3,4.5,4.5,9.24,1,0.833003307,Arizona
+58,Ashanti Hall,323,113,4,4,4.5,9.23,1,0.826995609,Arizona
+59,Irvin Griffin,326,111,5,4.5,4,9.23,1,0.773673152,Arizona
+60,Adrien Ho,338,115,5,4.5,5,9.23,1,0.786959111,Arizona
+61,Aliyah Buchanan,329,111,4,4.5,4,9.23,1,0.819812357,Arizona
+62,Jair Pennington,318,109,3,3.5,4,9.22,1,0.771216685,Arizona
+63,Brice Maxwell,320,110,5,5,4.5,9.22,1,0.759715881,Arizona
+64,Cullen Manning,324,110,3,3.5,3,9.22,1,0.779508896,Arizona
+65,Gideon Robles,320,110,5,5,5,9.2,1,0.803448711,Arizona
+66,Braxton Mccall,329,114,5,4.5,5,9.19,1,0.751680376,Arizona
+67,Dayanara Bolton,336,118,5,4.5,4,9.19,1,0.813026523,Arizona
+68,Reagan Thomas,329,111,4,4.5,4.5,9.18,1,0.793618087,Arizona
+69,Makaila Summers,328,108,4,4.5,4,9.18,1,0.775947047,Arizona
+70,Ayla Bates,325,112,4,4,4.5,9.17,1,0.777193548,Arizona
+71,Alberto Bird,330,114,4,4.5,3,9.17,1,0.802289531,Arizona
+72,Evelyn Prince,328,115,4,4.5,4,9.16,1,0.752196183,Arizona
+73,Guadalupe Byrd,329,119,4,4.5,4.5,9.16,1,0.813096687,Arizona
+74,Kash Dominguez,324,111,5,4.5,4,9.16,1,0.814580393,Arizona
+75,Sidney Hendricks,329,110,2,4,3,9.15,1,0.790885221,Arizona
+76,Jordyn Kelly,324,110,4,4.5,4,9.15,1,0.832611038,Arizona
+77,Sloane Clark,328,110,4,5,4,9.14,1,0.759972296,Arizona
+78,Heaven Baker,327,113,4,4.5,5,9.14,0,0.800518786,Arizona
+79,Dennis Morrison,326,116,3,3.5,4,9.14,1,0.83321826,Arizona
+80,Agustin Mercado,322,110,4,4,5,9.13,1,0.789619,Arizona
+81,Emerson Bauer,321,109,4,4,4,9.13,1,0.770630407,Arizona
+82,Daphne Holloway,327,108,5,5,3.5,9.13,1,0.757800171,Arizona
+83,Avery Wilkerson,318,109,1,3.5,3.5,9.12,0,0.764162576,Arizona
+84,Alexandria Gardner,321,114,4,4,5,9.12,0,0.83021469,Arizona
+85,Lawrence Stevenson,326,112,4,4,3.5,9.12,1,0.752613099,Arizona
+86,Damien Valdez,326,114,3,3,3,9.11,1,0.839852259,Arizona
+87,Mariela Green,327,113,4,4.5,4.5,9.11,1,0.778528757,Arizona
+88,Bruce Haynes,317,110,3,4,4.5,9.11,1,0.845840292,Arizona
+89,Kaydence Buchanan,320,120,3,4,4.5,9.11,0,0.827091495,Arizona
+90,Braylon Leblanc,325,111,4,4,4.5,9.11,1,0.788799144,Arizona
+91,Titus Levy,325,107,3,3,3.5,9.11,1,0.834903133,Arizona
+92,Kaylen Torres,328,112,4,4,4.5,9.1,1,0.786677644,Arizona
+93,Curtis Clayton,332,117,4,4.5,4,9.1,0,0.760873245,Arizona
+94,Jaydin Hoffman,322,110,5,5,4,9.1,1,0.793704184,Arizona
+95,Erika Martin,326,112,3,3.5,3,9.1,1,0.825381335,Arizona
+96,Triston Long,323,110,3,4,3.5,9.1,1,0.832977784,Arizona
+97,Sydnee Sutton,326,116,2,4.5,3,9.08,1,0.769104915,Arizona
+98,Noel Harrington,324,112,5,5,5,9.08,1,0.80166325,Arizona
+99,Vanessa Duke,324,114,5,5,4.5,9.08,1,0.761550832,Arizona
+100,Bianca Mccoy,334,117,5,4,4.5,9.07,1,0.973878769,Arizona
+101,Deangelo Mitchell,321,112,5,5,5,9.06,1,0.996736975,California
+102,Albert Boyer,325,108,4,4.5,4,9.06,1,0.99688102,California
+103,Anton Key,326,112,3,3.5,3,9.05,1,0.96780135,California
+104,Jimena George,314,108,4,4.5,4,9.04,1,0.99368078,California
+105,Kaylah Norton,310,106,4,4.5,4.5,9.04,1,0.99275771,California
+106,Carolyn Sawyer,319,110,3,3.5,3.5,9.04,0,0.996998984,California
+107,Brooklyn Hodge,325,114,3,3.5,3,9.04,1,0.982833147,California
+108,Brodie Baker,324,110,3,3.5,3.5,9.04,1,0.956598858,California
+109,Shiloh Gilmore,327,114,3,3,3,9.02,0,0.974920683,California
+110,Jaxson Berg,328,110,4,4,2.5,9.02,1,0.962366509,California
+111,Michaela Stanton,314,104,4,5,5,9.02,0,0.952693509,California
+112,Declan Best,329,111,4,4.5,4,9.01,1,0.986841753,California
+113,Ulises Good,324,111,4,3,3,9.01,1,0.958308898,California
+114,Haven Alvarado,327,111,4,4,4.5,9,1,0.981353947,California
+115,London Spencer,316,99,2,2.5,3,9,0,0.982233587,California
+116,Immanuel Carter,313,109,3,4,3.5,9,0,0.987399447,California
+117,Trace Le,325,112,4,4,4,9,1,0.967462984,California
+118,Callie Keith,311,107,4,4.5,4.5,9,1,0.978595252,California
+119,Arielle Foster,323,110,5,4,5,8.98,1,0.967211334,California
+120,Cristina Hanna,322,110,5,4.5,4,8.97,0,0.96068203,California
+121,Jamie Schwartz,321,111,4,4,4,8.97,1,0.978414741,California
+122,Caylee Acevedo,324,110,4,3,3.5,8.97,1,0.96930518,California
+123,Taniya Harding,331,120,3,4,4,8.96,1,0.986075355,California
+124,Marlon Fitzgerald,325,112,2,3,3.5,8.96,1,0.956330589,California
+125,Aaden Wallace,322,110,3,3.5,3,8.96,1,0.995000434,California
+126,Kristopher Wells,322,114,5,4.5,4,8.94,1,0.984461703,California
+127,Maxim Chang,325,112,4,3.5,3.5,8.92,0,0.969893246,California
+128,Kelsie Mckinney,314,106,3,3,5,8.9,0,0.993964239,California
+129,Reagan Tucker,321,111,3,2.5,3,8.9,1,0.999929202,California
+130,Ralph Mckenzie,313,102,3,3.5,4,8.9,1,0.974515943,California
+131,Siena Bullock,326,108,3,3,3.5,8.89,0,0.956732103,California
+132,Amani Brennan,323,113,3,4,4,8.88,1,0.9817004,California
+133,Markus Fisher,324,107,4,4,4.5,8.87,1,0.981370568,California
+134,Lamar Le,320,111,4,4.5,3.5,8.87,1,0.982853226,California
+135,India Serrano,324,110,3,3.5,4,8.87,1,0.998463154,California
+136,Wade Davis,321,110,3,3.5,5,8.85,1,0.987676597,California
+137,Frankie Cole,327,104,5,3,3.5,8.84,1,0.967405675,California
+138,Ezra Holland,322,104,3,3.5,4,8.84,1,0.994782434,California
+139,Kailee Dunlap,321,111,3,3.5,4,8.83,1,0.996888424,California
+140,Emery Eaton,318,110,3,4,3,8.8,0,0.977200279,California
+141,Makaila Peters,322,109,5,4.5,3.5,8.8,0,0.991732243,California
+142,Kaleb Ross,314,110,3,4,4,8.8,0,0.994410926,California
+143,Meredith Pineda,321,109,3,3.5,3.5,8.8,1,0.977061446,California
+144,Paxton Valentine,324,111,3,2.5,2,8.8,1,0.984321781,California
+145,Cherish Costa,324,113,4,4.5,4,8.79,0,0.990055947,California
+146,Austin Stanton,324,111,3,2.5,1.5,8.79,1,0.970652392,California
+147,Genesis Salazar,312,106,3,4,3.5,8.79,1,0.971963057,California
+148,Rory Benton,319,110,3,3,2.5,8.79,0,0.978940869,California
+149,Aliza Holland,316,110,3,4,4.5,8.78,1,0.9517317,California
+150,Devyn Gibson,323,112,5,4,4.5,8.78,0,0.95935513,California
+151,Jason Huff,312,103,3,3.5,4,8.78,0,0.952748236,California
+152,Jase Rivera,314,109,4,3.5,4,8.77,1,0.959403613,California
+153,Alissa Raymond,324,112,4,4,3.5,8.77,1,0.971938756,California
+154,Moriah Meyers,327,109,3,3.5,4,8.77,1,0.996569507,California
+155,Rodolfo Rollins,316,109,4,4.5,3.5,8.76,1,0.960105969,California
+156,Noah Rosales,316,109,3,3.5,3,8.76,0,0.981985911,California
+157,Hallie Velasquez,324,115,3,3.5,3,8.76,1,0.989900218,California
+158,Cara May,326,102,4,5,5,8.76,1,0.965176677,California
+159,Xiomara Fry,325,110,2,3,2.5,8.76,1,0.959442172,California
+160,Enzo Odom,319,108,2,2.5,3,8.76,0,0.989237978,California
+161,Vivian Alvarado,326,110,3,3.5,3.5,8.76,1,0.978233286,California
+162,Kade Lucero,317,104,2,3,3,8.76,0,0.992784572,California
+163,Isabell Frye,324,105,3,3,4,8.75,0,0.972607234,California
+164,Sammy Acosta,313,103,3,4,4,8.75,0,0.950657554,California
+165,Whitney Owen,320,104,3,3,3.5,8.74,1,0.963255991,California
+166,Raelynn Aguirre,323,108,5,4,4,8.74,1,0.963203718,California
+167,Agustin Roth,316,105,3,3,3.5,8.73,0,0.952496734,California
+168,Bella Greene,304,102,2,3,4,8.73,0,0.991606069,California
+169,Braiden Cohen,327,112,3,3,3,8.72,1,0.957964016,California
+170,Anabel Potts,319,112,3,2.5,2,8.71,1,0.959170942,California
+171,Peyton Mejia,317,107,3,4,3,8.7,0,0.963569589,California
+172,Izaiah Gregory,325,111,3,3,3.5,8.7,0,0.952779281,California
+173,Haley Medina,312,109,3,3,3,8.69,0,0.96579297,California
+174,Taniyah Eaton,313,107,3,4,4.5,8.69,0,0.96666576,California
+175,Brenden Acevedo,327,113,4,3.5,3,8.69,1,0.967917317,California
+176,Andrea Avery,321,109,4,4,4,8.68,1,0.964550009,California
+177,Lukas Howell,317,107,3,3.5,3,8.68,1,0.972462247,California
+178,Araceli Harrell,313,102,3,2.5,2.5,8.68,0,0.980925225,California
+179,Cadence Vang,322,110,3,3.5,2.5,8.67,1,0.981515005,California
+180,Jon Norman,318,112,3,4,3.5,8.67,0,0.984941821,California
+181,Brendan Hurley,310,107,3,3.5,3.5,8.67,0,0.98595419,California
+182,Jaxson Thompson,325,110,4,3.5,4,8.67,1,0.95213421,California
+183,Alanna Beltran,319,105,3,3,3.5,8.67,1,0.977271229,California
+184,Gaige Cortez,319,103,4,4.5,3.5,8.66,0,0.997978576,California
+185,Davon Ochoa,300,100,3,2,3,8.66,1,0.955304424,California
+186,Roberto Maynard,327,113,3,3.5,3,8.66,1,0.995537831,California
+187,Hayley Lam,324,107,5,3.5,4,8.66,1,0.9990858,California
+188,Slade Dodson,303,105,5,5,4.5,8.65,0,0.992026021,California
+189,Rene Wiggins,313,104,3,4,4.5,8.65,0,0.958204344,California
+190,Sophia Pugh,305,112,3,3,3.5,8.65,0,0.981242563,California
+191,Marques Vance,312,107,4,4.5,4,8.65,1,0.996391763,California
+192,Corbin Parks,318,106,3,2,3,8.65,0,0.989917333,California
+193,Dakota Bass,316,107,2,3.5,3.5,8.64,1,0.970197742,California
+194,Carsen Pham,304,103,5,5,4,8.64,0,0.986111863,California
+195,Reyna Huff,320,113,2,2,2.5,8.64,1,0.966475624,California
+196,Maximilian Blanchard,324,100,3,4,5,8.64,1,0.98814104,California
+197,Cierra Harrington,311,102,3,4.5,4,8.64,1,0.970261782,California
+198,Alisa Fernandez,322,110,3,4,5,8.64,1,0.952594597,California
+199,Jaylene Cortez,299,102,3,4,3.5,8.62,0,0.982920751,California
+200,Ezequiel Zhang,320,101,2,2.5,3,8.62,0,0.973457425,California
+201,Nylah Bentley,323,108,3,3.5,3,8.6,0,0.65113921,New York
+202,Heidi Flores,308,110,4,3.5,3,8.6,0,0.656320216,New York
+203,Jason Blackburn,320,104,3,3,2.5,8.57,1,0.70658209,New York
+204,Jensen Olsen,317,100,2,3,2.5,8.57,0,0.699149761,New York
+205,Jaquan Berger,329,114,2,2,4,8.56,1,0.732840661,New York
+206,Danika Dalton,320,110,2,4,3.5,8.56,0,0.691850075,New York
+207,Elaine Koch,309,105,5,3.5,3.5,8.56,0,0.735411667,New York
+208,Giancarlo Elliott,317,105,3,3.5,3,8.56,0,0.731781443,New York
+209,Gunner Mcconnell,316,110,3,3.5,4,8.56,0,0.669135527,New York
+210,Demarion Rios,314,107,2,2.5,4,8.56,0,0.700595612,New York
+211,Mikayla Lloyd,309,99,3,4,4,8.56,0,0.704979694,New York
+212,Kira Fischer,323,107,3,3.5,3.5,8.55,1,0.727734168,New York
+213,Leticia Dennis,317,103,3,2.5,3,8.54,1,0.658516692,New York
+214,Emily Raymond,298,105,3,3.5,4,8.54,0,0.719371548,New York
+215,Gaven Salas,318,100,2,2.5,3.5,8.54,1,0.716641478,New York
+216,Izaiah Sweeney,319,108,3,3,3.5,8.54,1,0.678627937,New York
+217,Sylvia Gutierrez,321,109,3,3,3,8.54,1,0.739880435,New York
+218,Georgia Palmer,312,110,2,3.5,3,8.53,0,0.740139639,New York
+219,Eddie Cross,312,108,3,3.5,3,8.53,0,0.670543898,New York
+220,Jaiden Wiley,307,107,2,3,3.5,8.52,1,0.683195058,New York
+221,Finley Ingram,303,102,3,3.5,3,8.5,0,0.673704919,New York
+222,Leilani Robles,313,107,2,2.5,2,8.5,1,0.724803091,New York
+223,Charlie Gould,315,107,2,4,3,8.5,1,0.678220724,New York
+224,Gianni Gardner,318,109,3,3,3,8.5,0,0.718989675,New York
+225,Diamond Blanchard,317,106,3,4,3.5,8.5,1,0.651296761,New York
+226,Estrella Conner,308,103,2,3,3.5,8.49,0,0.661358898,New York
+227,Jarrett Schultz,305,108,5,3,3,8.48,0,0.67721222,New York
+228,Santiago Calhoun,315,105,3,2,2.5,8.48,0,0.666214432,New York
+229,Mitchell Arellano,311,104,2,2.5,3.5,8.48,0,0.687482183,New York
+230,Kate Klein,317,104,2,4.5,4,8.47,0,0.744798629,New York
+231,Marilyn Mcconnell,301,106,4,2.5,3,8.47,0,0.719542952,New York
+232,Andy Logan,322,107,3,3.5,3.5,8.46,1,0.72703602,New York
+233,Jett Shannon,315,110,2,3.5,3,8.46,1,0.7075425,New York
+234,Jamiya Miranda,312,107,3,3,3,8.46,1,0.716152967,New York
+235,Ellis Charles,311,105,3,3.5,3,8.45,1,0.666255129,New York
+236,Aedan Tran,312,103,3,5,4,8.45,0,0.71330683,New York
+237,Talan Myers,308,109,2,3,4,8.45,0,0.719005275,New York
+238,Xander Rios,306,110,2,3.5,4,8.45,0,0.653635307,New York
+239,Myles Franklin,312,105,2,2,2.5,8.45,0,0.65577158,New York
+240,Jillian Swanson,322,105,2,3,3,8.45,1,0.719482659,New York
+241,Sydnee Hooper,323,104,3,4,4,8.44,1,0.712942327,New York
+242,Melanie Huber,321,107,2,2,1.5,8.44,0,0.729762042,New York
+243,Jakob Spears,320,108,3,3.5,4,8.44,1,0.669078666,New York
+244,Milton Guzman,311,104,3,4.5,4.5,8.43,0,0.708409913,New York
+245,Payton Jackson,313,106,2,2.5,2,8.43,0,0.724017333,New York
+246,Ana Reed,311,99,1,2.5,3,8.43,1,0.737673929,New York
+247,Violet Davidson,315,106,3,4.5,3.5,8.42,0,0.699402534,New York
+248,Ireland Hall,305,107,2,2.5,2.5,8.42,0,0.685398014,New York
+249,Hudson Day,312,104,3,3.5,3.5,8.42,0,0.69516239,New York
+250,Giada Ewing,325,106,3,3.5,4,8.4,1,0.659752643,New York
+251,Conor Joseph,325,114,4,3,2,8.4,0,0.677568403,New York
+252,Marin Ewing,299,106,2,4,4,8.4,0,0.73810884,New York
+253,Jamie Shaw,327,111,4,3,4,8.4,1,0.718934051,New York
+254,Christian Fuller,310,104,3,2,3.5,8.37,0,0.735361084,New York
+255,Yaretzi Mccarthy,307,110,4,4,4.5,8.37,0,0.6803475,New York
+256,Logan Coffey,310,106,4,1.5,2.5,8.36,0,0.738436674,New York
+257,Sariah Hudson,308,103,2,2.5,4,8.36,1,0.73209193,New York
+258,Harley Hensley,306,103,2,2.5,3,8.36,0,0.68413442,New York
+259,Arely Parsons,301,107,3,3.5,3.5,8.34,1,0.663135322,New York
+260,Rodolfo Hopkins,315,105,3,2,2.5,8.34,0,0.697727253,New York
+261,Alannah Erickson,308,108,4,4.5,5,8.34,0,0.722025093,New York
+262,Andres Mitchell,320,104,3,3.5,4.5,8.34,1,0.738026025,New York
+263,Kiersten Gray,302,102,3,3.5,5,8.33,0,0.698803173,New York
+264,Lilia Oneill,310,106,2,3.5,2.5,8.33,0,0.716112419,New York
+265,Addyson Dodson,319,106,3,3.5,2.5,8.33,1,0.731752915,New York
+266,Rory Hendricks,315,104,3,3,2.5,8.33,0,0.732031904,New York
+267,Mikaela Hamilton,316,106,2,2.5,4,8.32,0,0.68801418,New York
+268,Amanda Archer,316,101,2,2.5,2,8.32,1,0.743565008,New York
+269,Tristian Krueger,314,105,3,3.5,2.5,8.3,0,0.716524709,New York
+270,Jacoby Casey,327,103,3,4,4,8.3,1,0.74892555,New York
+271,Kiera Clay,313,98,3,2.5,4.5,8.3,1,0.681738561,New York
+272,Chance Dodson,311,104,2,2,2,8.3,0,0.673347228,New York
+273,Mariana Williamson,317,107,2,3.5,3,8.28,0,0.667491161,New York
+274,Bethany Livingston,313,102,3,2,3,8.27,0,0.658515902,New York
+275,Wade Avery,307,102,3,3,3,8.27,0,0.655778475,New York
+276,Jagger Hurst,312,107,2,2.5,3.5,8.27,0,0.710781263,New York
+277,Alvin Meyers,314,107,2,2.5,4,8.27,0,0.656007624,New York
+278,James Ewing,318,107,3,3,3.5,8.27,1,0.717701294,New York
+279,Eve Chapman,311,106,2,3.5,3,8.26,1,0.718753406,New York
+280,Ryker Owen,309,104,2,2,2.5,8.26,0,0.746743947,New York
+281,Colby Tapia,306,105,2,3,2.5,8.26,0,0.736455695,New York
+282,Casey Hayes,300,100,3,3,3.5,8.26,0,0.7308859,New York
+283,Danna Daugherty,314,106,2,4,3.5,8.25,0,0.672404858,New York
+284,Asa Werner,308,106,3,3,3,8.24,0,0.708203369,New York
+285,Rhianna Sellers,310,103,2,2.5,2.5,8.24,0,0.681033404,New York
+286,Kassandra Petty,314,102,2,2,2.5,8.24,0,0.659260555,New York
+287,Luciana Ewing,305,105,2,3,2,8.23,0,0.748175059,New York
+288,Royce Potts,301,99,2,3,2,8.22,0,0.733579654,New York
+289,Conner Duarte,308,108,3,3.5,3.5,8.22,0,0.694268698,New York
+290,Trevin Ross,306,105,2,2.5,3,8.22,1,0.746793839,New York
+291,Tyson Wilkerson,314,103,2,2,3,8.21,0,0.680526768,New York
+292,Sierra Humphrey,308,106,3,3.5,2.5,8.21,1,0.664358577,New York
+293,Tamara Wu,321,109,3,3,4,8.2,1,0.737854126,New York
+294,Lee Conrad,311,104,3,3.5,2,8.2,1,0.658529521,New York
+295,Jocelyn Skinner,316,105,2,2.5,2.5,8.2,1,0.7316445,New York
+296,Piper Perez,307,101,3,4,3,8.2,0,0.662506424,New York
+297,Kayleigh Briggs,304,105,2,3,3,8.2,1,0.695306888,New York
+298,Rudy Oconnor,312,98,1,3.5,3,8.18,1,0.681136711,New York
+299,Elyse Fuentes,305,102,2,2,2.5,8.18,0,0.709472202,New York
+300,Jaylyn Glenn,314,107,3,3,3.5,8.17,1,0.605601493,Texas
+301,Hayden Cooley,300,102,3,3.5,2.5,8.17,0,0.604472683,Texas
+302,Guadalupe Macias,316,100,2,1.5,3,8.16,1,0.642537401,Texas
+303,Madelyn Atkins,300,104,3,3.5,3,8.16,0,0.640627094,Texas
+304,Thomas Hamilton,305,106,2,3,3,8.16,0,0.638043519,Texas
+305,Cailyn Wilcox,317,103,2,2.5,2,8.15,0,0.639627968,Texas
+306,Maia Burnett,314,108,3,4.5,3.5,8.14,0,0.623568956,Texas
+307,Randy Landry,306,106,2,2,2.5,8.14,0,0.623486554,Texas
+308,Jesse Villa,305,105,2,3,4,8.13,0,0.605456575,Texas
+309,Yesenia Cruz,305,103,2,2.5,3.5,8.13,0,0.628528728,Texas
+310,Emily Townsend,312,105,2,2.5,3,8.12,0,0.648160283,Texas
+311,Gunnar Oconnell,309,108,3,2.5,3,8.12,0,0.625224012,Texas
+312,Andy Wolfe,301,104,3,3.5,4,8.12,1,0.602771986,Texas
+313,Nina Peck,311,105,2,3,2,8.12,1,0.608050261,Texas
+314,Marc Flowers,317,106,2,2,3.5,8.12,0,0.601020679,Texas
+315,Melany Golden,300,97,2,3,3,8.1,1,0.649581695,Texas
+316,Jazlyn Lowery,324,112,4,4,2.5,8.1,1,0.603185633,Texas
+317,Rylie Fuentes,309,100,2,3,3,8.1,0,0.620520641,Texas
+318,Zion Stafford,307,105,2,2,3.5,8.1,0,0.634173291,Texas
+319,Delaney Washington,312,104,3,3.5,4,8.09,0,0.61828961,Texas
+320,Manuel Gutierrez,304,100,2,2.5,3.5,8.07,0,0.630487224,Texas
+321,Davian Knight,308,104,2,2.5,3,8.07,0,0.618940495,Texas
+322,Donte Rowland,303,100,2,3,3.5,8.06,1,0.615033288,Texas
+323,Owen Sullivan,312,101,2,2.5,3.5,8.04,1,0.647001226,Texas
+324,Tanya Stanley,301,100,3,3.5,3,8.04,0,0.607892329,Texas
+325,Hayley Lin,313,101,3,2.5,3,8.04,0,0.607335279,Texas
+326,Marvin Grimes,298,98,2,4,3,8.03,0,0.60237922,Texas
+327,Uriah Luna,296,99,2,2.5,2.5,8.03,0,0.636611863,Texas
+328,Nikhil Heath,301,98,1,2,3,8.03,1,0.637902809,Texas
+329,Julian Bridges,312,105,3,2,3,8.02,1,0.607110848,Texas
+330,Mara Molina,310,102,3,3.5,4,8.02,1,0.636774448,Texas
+331,Felix Davila,299,100,3,2,2,8.02,0,0.612616278,Texas
+332,Ingrid Mooney,312,99,1,1,1.5,8.01,1,0.626701124,Texas
+333,Makayla Hanna,300,99,1,1,2.5,8.01,0,0.626713859,Texas
+334,Hayley Davidson,316,104,3,3,3.5,8,1,0.620266606,Texas
+335,Cannon Hester,302,102,1,2,1.5,8,0,0.62799939,Texas
+336,Lindsey Morgan,307,109,3,4,3,8,1,0.640946256,Texas
+337,Marquise Hoover,319,106,3,4,3,8,1,0.638319273,Texas
+338,Patricia Stafford,308,110,3,3.5,3,8,1,0.643044988,Texas
+339,Kimora Rhodes,334,116,4,4,3,8,1,0.626134117,Texas
+340,Kamila Lindsey,322,110,3,3,3.5,8,0,0.647369313,Texas
+341,Riley Pace,306,100,2,3,3,8,0,0.635910627,Texas
+342,Willow Carrillo,309,106,2,2.5,2.5,8,0,0.602875608,Texas
+343,Cody Raymond,311,99,2,2.5,3,7.98,0,0.647860428,Texas
+344,Rosemary Mccormick,302,99,2,1,2,7.97,0,0.639569911,Texas
+345,Brenden Watkins,302,101,2,2.5,3.5,7.96,0,0.613309392,Texas
+346,Erik Sloan,315,100,1,2,2.5,7.95,0,0.627716656,Texas
+347,Mohammad Castillo,318,106,2,4,4,7.92,1,0.63043012,Texas
+348,Mckayla Bryan,308,101,2,3,4,7.9,0,0.649304253,Texas
+349,Agustin Curry,312,107,3,3,2,7.9,1,0.637156608,Texas
+350,Quinn Shannon,312,100,2,1.5,3.5,7.9,1,0.629785531,Texas
+351,Talon Valencia,297,100,1,1.5,2,7.9,0,0.611258755,Texas
+352,Ethen Mcguire,315,99,2,3.5,3,7.89,0,0.620103714,Texas
+353,Jayce Davila,299,100,1,1.5,2,7.89,0,0.622180547,Texas
+354,Reagan Hess,297,96,2,2.5,1.5,7.89,0,0.608059662,Texas
+355,Casey Boyer,301,104,2,3.5,3.5,7.89,1,0.621308439,Texas
+356,Amber Kramer,301,97,2,3,3,7.88,1,0.612807388,Texas
+357,Kelsie Combs,299,100,2,3,3.5,7.88,0,0.602537624,Texas
+358,Layton Patterson,298,92,1,2,2,7.88,0,0.601957647,Texas
+359,Rosemary Kim,300,102,2,1.5,2,7.87,0,0.604336349,Texas
+360,Alejandro Duke,315,103,1,1.5,2,7.86,0,0.645134923,Texas
+361,Cole Armstrong,299,96,2,1.5,2,7.86,0,0.613585761,Texas
+362,Iris Smith,298,101,2,1.5,2,7.86,0,0.633929256,Texas
+363,Elliott Paul,295,101,2,2.5,2,7.86,0,0.619077327,Texas
+364,Geovanni Roach,304,100,4,1.5,2.5,7.84,0,0.623095755,Texas
+365,Lawson Stokes,300,105,1,1,2,7.8,0,0.608764225,Texas
+366,Trystan Singleton,293,97,2,2,4,7.8,1,0.629399734,Texas
+367,Helen Wilkinson,296,97,2,1.5,2,7.8,0,0.601978904,Texas
+368,Elisa Parrish,307,108,2,4,3.5,7.7,0,0.632420253,Texas
+369,Tia Choi,320,103,3,3,3,7.7,0,0.635254325,Texas
+370,Kendal Harrell,296,101,1,2.5,3,7.68,0,0.638266807,Texas
+371,Corbin Garrison,297,98,2,2.5,3,7.67,0,0.648826784,Texas
+372,Karissa Freeman,299,97,3,5,3.5,7.66,0,0.643205619,Texas
+373,Malcolm Merritt,303,99,3,2,2.5,7.66,0,0.644476963,Texas
+374,Bo Huffman,304,101,2,2,2.5,7.66,0,0.648135679,Texas
+375,Elyse Duke,295,99,2,2.5,3,7.65,0,0.62166611,Texas
+376,Olivia Haas,307,105,2,2.5,3,7.65,0,0.606521578,Texas
+377,Cristal Wolfe,315,105,2,2,2.5,7.65,0,0.64395625,Texas
+378,Aron Sellers,303,98,1,2,2.5,7.65,0,0.629006603,Texas
+379,Anthony May,294,95,1,1.5,1.5,7.64,0,0.616092778,Texas
+380,Giancarlo Powers,304,97,2,1.5,2,7.64,0,0.621166352,Texas
+381,Catherine Campbell,314,105,2,2.5,2,7.64,0,0.61845656,Texas
+382,Riya Winters,298,99,2,4,2,7.6,0,0.646928414,Texas
+383,Marco Underwood,290,100,1,1.5,2,7.56,0,0.641934446,Texas
+384,Jaliyah Burke,296,95,2,3,2,7.54,1,0.617503629,Texas
+385,Alexander Blair,298,98,2,1.5,2.5,7.5,1,0.623736802,Texas
+386,Athena Graves,304,105,1,3,1.5,7.5,0,0.602800755,Texas
+387,Frances Dominguez,290,104,4,2,2.5,7.46,0,0.626228329,Texas
+388,Naomi Duran,298,99,1,1.5,3,7.46,0,0.631133838,Texas
+389,Cale Snow,311,98,1,1,2.5,7.46,0,0.639601146,Texas
+390,Lee Pennington,316,98,1,1.5,2,7.43,0,0.603574091,Texas
+391,Kevin Page,297,96,2,2.5,2,7.43,0,0.605962496,Texas
+392,Arielle Kerr,316,102,3,2,3,7.4,0,0.600095489,Texas
+393,Odin Barber,294,93,1,1.5,2,7.36,0,0.610934407,Texas
+394,Brendon Rangel,295,96,2,1.5,2,7.34,0,0.645373919,Texas
+395,Jocelyn Weber,299,94,1,1,1,7.34,0,0.629239402,Texas
+396,Nehemiah Newton,310,99,2,1.5,2,7.3,0,0.604372082,Texas
+397,Aydin Butler,296,99,2,3,3.5,7.28,0,0.603221163,Texas
+398,Raquel Mckee,302,99,1,2,2,7.25,0,0.637542478,Texas
+399,Karen Hendrix,295,93,1,2,2,7.2,0,0.62307649,Texas
+400,Pamela Munoz,300,99,1,3,2,6.8,1,0.622401191,Texas
